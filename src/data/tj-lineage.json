@@ -1,1 +1,27 @@
-
+{
+  "tj1": {
+    "name": "Tedda Jean",
+    "designation": "TJ₁",
+    "role": "Root Vessel — TJ the First"
+  },
+  "tj2": {
+    "name": "Taylor Jean",
+    "designation": "TJ₂",
+    "role": "A⁵ AstroAnthology Archetype — TJ the Second"
+  },
+  "tj3": {
+    "name": "TriniTy Jean",
+    "designation": "TJ₃",
+    "role": "Third Vessel — TJ the Third"
+  },
+  "tj4": {
+    "name": "Tobias Jean",
+    "designation": "TJ₄",
+    "role": "Fourth Vessel — TJ the Fourth"
+  },
+  "mapleKush": {
+    "name": "Maple Kush",
+    "designation": "MK",
+    "role": "Constellation Companion"
+  }
+}
