@@ -18,9 +18,9 @@ export default function LineagePage() {
         <li><Link href="/lineage/a-dog2">A‑Dog₂ — TJ₁'s Shadow Twin</Link></li>
         <li><Link href="/lineage/a-dog2/maple-kush">Maple Kush — A‑Dog₂'s Resident Ranger</Link></li>
 
-        <li><Link href="/lineage/andrea">Andrea Sharon Simms</Link></li>
-        <li><Link href="/lineage/figaro">Figaro El Lil’ Nigaro — #1DaugLilr₂</Link></li>
-        <li><Link href="/lineage/trinity">TriniTy Jean — #1Daughter₃</Link></li>
+        <li><Link href="/lineage/#1daughters/andrea">Andrea Sharon Iyanda — #1Daughter₁</Link></li>
+        <li><Link href="/lineage/#1daughters/figaro">Figaro El Lil’ Nigaro — #1Daughter₂</Link></li>
+        <li><Link href="/lineage/#1daughters/trinity">TriniTy Jean — #1Daughter₃</Link></li>
       </ul>
 
       {/* ⭐⭐⭐ KUBIQSIMMETRY CUBE ⭐⭐⭐ */}
