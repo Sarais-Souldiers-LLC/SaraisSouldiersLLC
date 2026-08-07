@@ -1,0 +1,19 @@
+.container {
+  padding: 2rem;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.list a {
+  color: var(--ssllc-accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.list a:hover {
+  text-decoration: underline;
+}
